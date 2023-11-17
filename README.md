@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mosyie
 - 👀 I’m interested in collaborating on projects
-- 🌱 I’m currently learning Computer Science at Budapest
+- 🌱 I’m currently learning Computer Science in Budapest
 - 📫 You can reach me via email: mosonyi.martin08@gmail.com
 
 <!---
